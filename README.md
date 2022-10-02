@@ -26,7 +26,7 @@ The program will tell you if you succeeded or not after you are out of guesses o
 
 So why not do that?
 
-4. If you decline you can press [O] to visit my github page on the game or [ENTER] to finish.
+4. If you decline you can press [O] to visit my github page about the game or [ENTER] to quit the program.
 
 ![alt text](https://github.com/PavelStoyanov06/Guess-The-Number/blob/main/images/visit_github.png)
 

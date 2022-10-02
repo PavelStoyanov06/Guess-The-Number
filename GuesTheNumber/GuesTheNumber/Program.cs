@@ -151,7 +151,7 @@ static void NewGame()
 
     Console.WriteLine();
     Console.WriteLine("Hope you enjoyed the game!".Pastel("#FFAA00"));
-    Console.Write("Press [O] if you want to visit me on githib or press [ENTER] to finish the program!".Pastel("#FFFFFF"));
+    Console.Write("Press [O] if you want to visit me on GitHub or press [ENTER] to finish the program!".Pastel("#FFFFFF"));
 
     if (Console.ReadKey().Key == ConsoleKey.O)
     {
