@@ -13,7 +13,11 @@ If you decide on a custom game the program will ask you to enter the values your
 
 2. Start guessing!
 
-Note that you have a set number of guesses.
+Note that you have a set number of guesses:
+easy:20
+medium:15
+hard & extreme:10
+custom:however you want
 
 The program will tell you if you succeeded or not after you are out of guesses or when you guess the number.
 
